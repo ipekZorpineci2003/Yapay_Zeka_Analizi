@@ -4,9 +4,9 @@ Bu interaktif web uygulaması, **Baykar Milli Teknoloji Akademisi - Yapay Zeka U
 
 
 > 📚 Bu proje şunları içerir:
-> Tamamen interaktif bir **Streamlit Web Uygulaması** (`streamlit_app.py`)
-> Bağımsız analizler ve model geliştirmeleri için bir **Jupyter Notebook** (`Baykar Projesi - İpek Zorpineci.ipynb`)
-> Metodolojiyi ve sonuçları özetleyen resmi bir **Proje Raporu** (`BAYKAR(Yapay Zeka Analizi) Raporu.pdf`)
+> - Tamamen interaktif bir **Streamlit Web Uygulaması** (`streamlit_app.py`)
+> - Bağımsız analizler ve model geliştirmeleri için bir **Jupyter Notebook** (`Baykar Projesi - İpek Zorpineci.ipynb`)
+> - Metodolojiyi ve sonuçları özetleyen resmi bir **Proje Raporu** (`BAYKAR(Yapay Zeka Analizi) Raporu.pdf`)
 
 ---
 
