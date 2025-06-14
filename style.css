@@ -1,0 +1,72 @@
+/* style.css */
+
+/* Ana sayfa stilleri */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Başlık stilleri */
+h1, h2, h3, h4, h5, h6 {
+    color: #1a5276;
+}
+
+/* Kenar çubuğu stilleri */
+[data-testid="stSidebar"] {
+    background-color: #eaf2f8;
+    padding: 20px;
+}
+
+/* Buton stilleri */
+.stButton>button {
+    background-color: #2980b9;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 24px;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.stButton>button:hover {
+    background-color: #3498db;
+    transform: scale(1.05);
+}
+
+/* Metrik kart stilleri */
+.stMetric {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Uyarı stilleri */
+.stAlert {
+    border-radius: 10px;
+}
+
+/* Sekme stilleri */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 10px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    padding: 10px 20px;
+    border-radius: 8px 8px 0 0;
+}
+
+/* Veri çerçevesi stilleri */
+.stDataFrame {
+    border-radius: 10px;
+}
+
+/* Özel sınıflar */
+.diagnosis-bad {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.diagnosis-good {
+    color: #27ae60;
+    font-weight: bold;
+}
